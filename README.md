@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Deep Learning**
 - 💬 Ask me about **Python, SQL, Machine Learning**
 - 👨‍💻 All of my projects are available at--  (https://github.com/kanika214)
-- ⚡ Fun fact abot me **An avid reader and i like to travel.**
+- ⚡ Fun fact abot me -  **An avid reader and i like to travel.**
 - 📫 How to reach me **rajkanika214@gmail.com**
 <br>
 
