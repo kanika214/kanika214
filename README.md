@@ -1,13 +1,6 @@
 ## Hey 👋, I'm Kanika Raj
 - 
-     ## Happy to see you here.
-     
-<img align="right" alt="Coding" width="400">
-
-![git](https://user-images.githubusercontent.com/18574968/205454309-fca9181b-44b3-4d29-a207-897b66131817.gif)">
-
-<br>
-     
+     ## Happy to see you here.     
    ### **I'm an aspiring Data Scientist with strong analytical and interpretive skills who enjoys working with data.**
      
 - 🌱 I’m currently learning **Deep Learning**
