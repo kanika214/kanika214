@@ -1,7 +1,11 @@
 ## Hey 👋, I'm Kanika Raj
 - 
-     ## Happy to see you here.     
-   ### **I'm an aspiring Data Scientist with strong analytical and interpretive skills who enjoys working with data.**
+     ## Happy to see you here.    
+<img src="https://user-images.githubusercontent.com/18574968/205457388-6ed6bde6-a056-47fe-a0dc-a392dad9f018.gif" height="300px" align='right'>
+
+   ### **I'm an aspiring Data Scientist with strong analytical and interpretive skills and enjoy working with data.**
+  
+   
      
 - 🌱 I’m currently learning **Deep Learning**
 - 💬 Ask me about **Python, SQL, Machine Learning**
